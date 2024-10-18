@@ -12,6 +12,7 @@ permalink: /group/
 - [Jane Pan](https://janepan9917.github.io) (co-advised with Sam Bowman)
 - [Jacob Pfau](https://jacobpfau.com) (co-advised with Sam Bowman)
 - [Kai Xu](https://www.linkedin.com/in/kyx)
+- [Yulin Chen] (co-advised with Chen Zhao)
 
 ## Post-docs
 - [Rico Angell](https://people.cs.umass.edu/~rangell/)
@@ -20,6 +21,8 @@ permalink: /group/
 - [Yueh-Han (John) Chen](http://www.john-chen.cc)
 
 ## Visitors and collaborators
+- [Jiaxin Wen](https://jiaxin-wen.github.io)
+- [Valerie Chen](https://valeriechen.github.io)
 
 ## Alumni
 - [Shi Feng](https://ihsgnef.github.io) (Postdoc 2024, co-advised with Sam Bowman, now assistant professor at George Washington University)
