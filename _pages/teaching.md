@@ -8,6 +8,8 @@ permalink: /teaching/
 
 ## Courses
 - DS-GA.1011 Natural Language Processing with Representation Learning
+  [[fall24](https://nyu-cs2590.github.io/fall2024/)]
+- DS-GA.1011 Natural Language Processing with Representation Learning
   [[fall23](https://nyu-cs2590.github.io/fall2023/)]
 - CSCI-GA.2590 Natural Language Processing
   [[fall20](https://nyu-cs2590.github.io/fall2020/)]
@@ -19,5 +21,6 @@ permalink: /teaching/
   [[spring22](https://nyu-ds1003.github.io/spring2022)]
 
 ## Tutorials
-- [Attention and Transformers](https://deeplearning.neuromatch.io/tutorials/W3D1_AttentionAndTransformers/student/W3D1_Tutorial1.html). Neuromatch Academy: Deep Learning.
+- [Creative Natural Language Generation](https://emnlp2023-creative-nlg.github.io). EMNLP 2023.
 - [Robustness and Adversarial Examples in NLP](https://robustnlp-tutorial.github.io). EMNLP 2021.
+- [Attention and Transformers](https://deeplearning.neuromatch.io/tutorials/W3D1_AttentionAndTransformers/student/W3D1_Tutorial1.html). Neuromatch Academy: Deep Learning.
