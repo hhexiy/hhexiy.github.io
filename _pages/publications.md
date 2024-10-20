@@ -12,8 +12,8 @@ author_profile: true
 {% include base_path %}
 
 [<a href="https://scholar.google.com/citations?hl=en&user=K-isjagAAAAJ&view_op=list_works">google scholar</a>]
-[<a href="#" onclick="showAll()">all</a>]
-[<a href="#" onclick="showRepresentative()">representative</a>]
+[<a href="#all" onclick="showAll()">all</a>]
+[<a href="#representative" onclick="showRepresentative()">representative</a>]
 
 <div id="all-publications" style="display: block;">
 {% include publication.html %}
