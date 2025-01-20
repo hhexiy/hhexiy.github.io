@@ -8,7 +8,6 @@ permalink: /group/
 - [Vishakh Padmakumar](https://vishakhpk.github.io)
 - [Nitish Joshi](https://joshinh.github.io/)
 - [Nicholas Lourie](https://www.semanticscholar.org/author/Nicholas-Lourie/35219984) (co-advised with Kyunghyun Cho)
-- [Yanda Chen](https://yandachen.github.io) (co-advised with Kathleen McKeown and Zhou Yu)
 - [Jane Pan](https://janepan9917.github.io) (co-advised with Sam Bowman)
 - [Jacob Pfau](https://jacobpfau.com) (co-advised with Sam Bowman)
 - [Kai Xu](https://www.linkedin.com/in/kyx)
@@ -23,8 +22,11 @@ permalink: /group/
 ## Visitors and collaborators
 - [Jiaxin Wen](https://jiaxin-wen.github.io)
 - [Valerie Chen](https://valeriechen.github.io)
+- [Jannik Brinkmann](https://jannik-brinkmann.github.io)
+- [Xinpeng Wang](https://xinpeng-wang.github.io)
 
 ## Alumni
+- [Yanda Chen](https://yandachen.github.io) (PhD 2024, co-advised with Kathleen McKeown and Zhou Yu, now member of technical staff at Anthropic)
 - [Shi Feng](https://ihsgnef.github.io) (Postdoc 2024, co-advised with Sam Bowman, now assistant professor at George Washington University)
 - [Abulhair Saparov](https://asaparov.org) (Postdoc 2024, now assistant professor at Purdue University)
 - [Yuanzhe (Richard) Pang](https://yzpang.github.io) (PhD 2024, co-advised with Kyunghyun Cho, now research scientist at Meta)
