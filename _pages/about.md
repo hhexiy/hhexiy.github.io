@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I want to build intelligent systems that can communicate with humans effectively and enable individuals to achieve their goals. Today's systems are often opaque, brittle, and difficult to control, which limits their usefulness in human-centered applications.
-To make them our trustworthy collaborators, my research aims to (i) understand the computational foundation of generalization in novel scenarios, and (ii) build interactive systems that align with user's goals.
-
-I am an Assistant Professor of [Computer Science](https://cs.nyu.edu) and [Center for Data Science](https://cds.nyu.edu) at New York University.
+I am an assistant professor of [Computer Science](https://cs.nyu.edu) and [Data Science](https://cds.nyu.edu) at New York University.
 I am affiliated with the [CILVR Lab](https://wp.nyu.edu/cilvr/),
 the [Machine Learning for Language Group](https://wp.nyu.edu/ml2),
 and the [Alignment Research Group](https://wp.nyu.edu/arg/).
 
-Here are some directions I'm excited about nowadays:
+I am interested in how large language models work and the potential risks of this technology.
+Here are some questions I'm thinking about nowadays:
 
-- **Robustness**: Machine learning models are trained on a fixed and often biased dataset, but face a constantly-changing world. How can we build predictors that align with human rationales, avoid spurious correlations, and generalize to out-of-distribution data? How can models adapt quickly given new information?
-- **Truthfulness**: We are increasingly relying on machine learning models (e.g., large language models) for critical tasks. How can we make sure that the model outputs conform to facts? Does the model know what it doesn't know? Can it output a "proof" for its answer? How do we evaluate factuality efficiently for questions beyond the ability of an average person?
-- **Human-AI collaboration**: We want AI agents to deal with our daily minutiae, support our decision-making, and teach us complex concepts. How should the agent infer user intention and preferences, allow for fine-grained control, and take (natural language) feedback? How will this collaboration shape the future workforce?
+- **Understanding LLMs**: How do we make sense of LLMs and uncover the guiding principles of scaling? I'm curious to what extent they generalize to novel scenarios, and how abstract concepts are encoded in their representations.
+- **Evaluation and oversight**: How do we verify LLM outputs for complex, real-world tasks? How can we discover new capabilities? How should we measure usefulness in practical workflows? And how do we monitor for risky or unintended behaviors? 
+- **Human-AI collaboration**: How do we make humans stay valuable in an increasingly automated world? How can agents infer intent, adapt to preferences, and integrate feedback for finer control? What will this collaboration mean for the future of work?
 
 **Prospective students**:
 Please read my [advising statement]({% link _pages/advising.md %}) before contacting.
@@ -28,4 +26,4 @@ I'm looking for 1--2 PhD students this cycle.
 If you're interested, please apply to the PhD program in [Computer Science](https://cs.nyu.edu/home/phd/admission.html) or [Data Science](https://cds.nyu.edu/academics/phd-in-data-science)
 and mention my name in your application.
 If you are interested in a post-doc position, please email me directly.
-Unfortunately I no longer have time to supervise undergraduate or MS students. If you think you have a compelling story though, feel free to reach out.
+Unfortunately I no longer have time to supervise undergraduates or MS students. If you think you have a compelling story though, feel free to reach out.

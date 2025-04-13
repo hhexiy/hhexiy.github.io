@@ -15,7 +15,7 @@ publication.html: website-data/pub_data.py website-data/generate_pubs.py
 representative.html: website-data/pub_data.py website-data/generate_pubs.py
 	set -e;\
 	cd website-data;\
-	python generate_pubs.py --selected 0 --no-year > representative.html;\
+	python generate_pubs.py --selected 1 --no-year > representative.html;\
 	cp representative.html ..;
 	cp representative.html _includes/;
 
