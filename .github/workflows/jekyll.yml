@@ -61,9 +61,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }} # Ensure this token has correct permissions
-      - name: Debug Deployment
-        run: |
-          echo "Deployment URL: ${{ steps.deployment.outputs.page_url }}"
-          echo "Check if the artifact was uploaded and accessible."
