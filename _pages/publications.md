@@ -15,6 +15,9 @@ author_profile: true
 [<a href="#all" onclick="showAll()">all</a>]
 [<a href="#representative" onclick="showRepresentative()">representative</a>]
 
+To learn about my latest work, you may want to check google scholar.
+To know more about my research style, take a look at representative work.
+
 <div id="all-publications" style="display: block;">
 {% include publication.html %}
 </div>

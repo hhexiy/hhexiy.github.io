@@ -12,6 +12,7 @@ I am an assistant professor of [Computer Science](https://cs.nyu.edu) and [Data 
 I am affiliated with the [CILVR Lab](https://wp.nyu.edu/cilvr/),
 the [Machine Learning for Language Group](https://wp.nyu.edu/ml2),
 and the [Alignment Research Group](https://wp.nyu.edu/arg/).
+Here's a guide on [how to pronunce my name]({% link _pages/pronunciation.md %}).
 
 I am interested in how large language models work and the potential risks of this technology.
 Here are some questions I'm thinking about nowadays:
