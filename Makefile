@@ -25,4 +25,4 @@ docs/cv/cv.pdf: docs/cv/cv.tex
 	pdflatex cv.tex;
 
 build:
-	/Users/hehe/.rbenv/shims/bundle exec jekyll serve
+	bundle exec jekyll serve
