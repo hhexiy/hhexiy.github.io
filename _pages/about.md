@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of [Computer Science](https://cs.nyu.edu) and [Data Science](https://cds.nyu.edu) at New York University.
+I am an associate professor of [Computer Science](https://cs.nyu.edu) and [Data Science](https://cds.nyu.edu) at New York University.
 I am affiliated with the [CILVR Lab](https://wp.nyu.edu/cilvr/),
 the [Machine Learning for Language Group](https://wp.nyu.edu/ml2),
 and the [Alignment Research Group](https://wp.nyu.edu/arg/).

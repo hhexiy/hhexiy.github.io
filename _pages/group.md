@@ -5,19 +5,15 @@ permalink: /group/
 ---
 
 ## PhD students
-- [Vishakh Padmakumar](https://vishakhpk.github.io)
-- [Nitish Joshi](https://joshinh.github.io/)
-- [Nicholas Lourie](https://www.semanticscholar.org/author/Nicholas-Lourie/35219984) (co-advised with Kyunghyun Cho)
 - [Jane Pan](https://janepan9917.github.io) (co-advised with Sam Bowman)
-- [Jacob Pfau](https://jacobpfau.com) (co-advised with Sam Bowman)
 - [Kai Xu](https://www.linkedin.com/in/kyx)
 - Yulin Chen (co-advised with Chen Zhao)
+- Shashwat Singh (co-advised with Tal)
+- Varun Verram (co-advised with Eunsol)
+- Binjie Wang (co-advised with Chen Zhao)
 
 ## Post-docs
 - [Rico Angell](https://people.cs.umass.edu/~rangell/)
-
-## MS students
-- [Yueh-Han (John) Chen](http://www.john-chen.cc)
 
 ## Visitors and collaborators
 - [Jiaxin Wen](https://jiaxin-wen.github.io)
@@ -26,6 +22,11 @@ permalink: /group/
 - [Xinpeng Wang](https://xinpeng-wang.github.io)
 
 ## Alumni
+- [Jacob Pfau](https://jacobpfau.com) (co-advised with Sam Bowman, now co-founder at Resolution)
+- [Nicholas Lourie](https://www.semanticscholar.org/author/Nicholas-Lourie/35219984) (PhD 2026, co-advised with Kyunghyun Cho, now researcher at HRT)
+- [Vishakh Padmakumar](https://vishakhpk.github.io) (PhD 2025, now postdoc at Stanford)
+- [Nitish Joshi](https://joshinh.github.io/) (PhD 2025, now researcher at Google DeepMind)
+- [Yueh-Han (John) Chen](http://www.john-chen.cc) (MS 2025, now at Anthropic)
 - [Yanda Chen](https://yandachen.github.io) (PhD 2024, co-advised with Kathleen McKeown and Zhou Yu, now member of technical staff at Anthropic)
 - [Shi Feng](https://ihsgnef.github.io) (Postdoc 2024, co-advised with Sam Bowman, now assistant professor at George Washington University)
 - [Abulhair Saparov](https://asaparov.org) (Postdoc 2024, now assistant professor at Purdue University)
