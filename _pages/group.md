@@ -9,7 +9,7 @@ permalink: /group/
 - [Kai Xu](https://www.linkedin.com/in/kyx)
 - Yulin Chen (co-advised with Chen Zhao)
 - Shashwat Singh (co-advised with Tal)
-- Varun Verram (co-advised with Eunsol)
+- Varun Yerram (co-advised with Eunsol)
 - Binjie Wang (co-advised with Chen Zhao)
 
 ## Post-docs
